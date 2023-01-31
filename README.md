@@ -8,7 +8,8 @@
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Antonioaugust0&bg_color=0d1117&color=e9e9e9&line=ff0000&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+#
+<br>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Antonioaugust0&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
@@ -19,15 +20,18 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0B1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp; -->
-
-### Studying in this moment:
-<div style="display: inline-block">
-  <img align="center" alt="Antonioaugust0-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Antonioaugust0-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Antonioaugust0-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Antonioaugust0-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<div align="center">
+  <strong><p>Studying at this moment:</p></strong>
+  <div align="center" style="display: inline-block">
+    <img align="center" alt="Antonioaugust0-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img align="center" alt="Antonioaugust0-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img align="center" alt="Antonioaugust0-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img align="center" alt="Antonioaugust0-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  </div>
 </div>
 
+#
+<br>
 <div align="center">
   <br>
   <p align="center"><b>Visitors Count</b></p>
