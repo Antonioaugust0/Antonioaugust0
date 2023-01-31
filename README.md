@@ -3,14 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DF0000&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Antônio+Augusto;I'm+20+years+old;I'm+from+Brazil;I'm+studying+HTML,+CSS+and+JavaScript.:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Antoniaugust0&show_icons=true&count_private=true&hide_border=true&title_color=DF0000&icon_color=DF0000&text_color=E7E7E7&bg_color=0d1117" alt="Antônio Augusto github stats"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antoniaugust0&layout=compact&hide_border=true&title_color=DF0000&text_color=E7E7E7&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Antonioaugust0&show_icons=true&count_private=true&hide_border=true&title_color=DF0000&icon_color=DF0000&text_color=E7E7E7&bg_color=0d1117" alt="Antônio Augusto github stats"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonioaugust0&layout=compact&hide_border=true&title_color=DF0000&text_color=E7E7E7&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Antoniaugust0&bg_color=0d1117&color=e9e9e9&line=ff0000&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Antonioaugust0&bg_color=0d1117&color=e9e9e9&line=ff0000&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Antoniaugust0&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Antonioaugust0&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <!-- Adicionar redes sociais depois -->
@@ -22,16 +22,16 @@
 
 ### Studying in this moment:
 <div style="display: inline-block">
-  <img align="center" alt="Antoniaugust0-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Antoniaugust0-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Antoniaugust0-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Antoniaugust0-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Antonioaugust0-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="Antonioaugust0-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="Antonioaugust0-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Antonioaugust0-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
 
 <div align="center">
   <br>
   <p align="center"><b>Visitors Count</b></p>
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Antoniaugust0}/count.svg" /></p>
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Antonioaugust0}/count.svg" /></p>
   <br>
 </div>
 
