@@ -29,14 +29,5 @@
     <img align="center" alt="Antonioaugust0-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </div>
 </div>
-
-#
-<br>
-<div align="center">
-  <br>
-  <p align="center"><b>Visitors Count</b></p>
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Antonioaugust0}/count.svg" /></p>
-  <br>
 </div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DF0000&height=120&section=footer" />
