@@ -8,7 +8,9 @@
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Antonioaugust0&bg_color=0d1117&color=e9e9e9&line=ff0000&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 #
+
 <br>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Antonioaugust0&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -28,7 +30,6 @@
     <img align="center" alt="Antonioaugust0-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="center" alt="Antonioaugust0-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </div>
-</div>
 </div>
 
 ##
