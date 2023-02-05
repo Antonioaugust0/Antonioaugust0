@@ -1,4 +1,4 @@
-<div style="background-color:0d1117">
+<div style="background:0d1117">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DF0000&height=120&section=header"/>
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DF0000&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Antônio+Augusto;I'm+20+years+old;I'm+from+Brazil;I'm+studying+HTML,+CSS+and+JavaScript.:%29)](https://git.io/typing-svg)
@@ -35,4 +35,4 @@
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DF0000&height=120&section=footer" />
 
- </div>
+</div>
