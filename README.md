@@ -1,7 +1,7 @@
 <div style="background:0d1117">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DF0000&height=120&section=header"/>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DF0000&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Antônio+Augusto;I'm+20+years+old;I'm+from+Brazil;I'm+studying+HTML,+CSS+and+JavaScript.:%29)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DF0000&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Antônio+Augusto;I'm+22+years+old;I'm+from+Brazil;I'm+studying+HTML,+CSS+and+JavaScript.:%29)](https://git.io/typing-svg)
 
   <div align="center">
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Antonioaugust0&show_icons=true&count_private=true&hide_border=true&title_color=DF0000&icon_color=DF0000&text_color=E7E7E7&bg_color=0d1117" alt="Antônio Augusto github stats"/>
